@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\index.css" />
+    <Content Include="ASP.asp" />
     <Content Include="Images\Panzer III.jpg" />
     <Content Include="Images\Panzer IV.jpg" />
     <Content Include="Images\Tiger Tank.jpg" />

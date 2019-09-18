@@ -1,1 +1,1 @@
-﻿alert("ALERT!");
+﻿console.log("ALERT!");
